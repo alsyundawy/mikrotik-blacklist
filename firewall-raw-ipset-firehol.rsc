@@ -15,6 +15,12 @@ add action=drop chain=prerouting comment="IP List Blacklist SpamHaus" \
 add action=drop chain=prerouting comment=\
     "IP List Blacklist bruteforceblocker" src-address-list=\
     00_bruteforceblocker
+add action=drop chain=prerouting comment="IP List Blacklist BinaryDefense" \
+    src-address-list=00_BinaryDefense
+add action=drop chain=prerouting comment="IP List Blacklist GreenSnoW" \
+    src-address-list=00_greensnow
+add action=drop chain=prerouting comment="IP List Malc0de" \
+    src-address-list=00_malc0de
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 1" \
     src-address-list=00_firehol_level1
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 2" \
@@ -24,9 +30,6 @@ add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 3" \
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 4" \
     src-address-list=00_firehol_level4
 add action=drop chain=prerouting comment=\
-    "IP List Blacklist Firehol Webserver" src-address-list=\
-    00_firehol_webserver
-add action=drop chain=prerouting comment=\
     "IP List Blacklist Firehol Abuser 1D" src-address-list=\
     00_firehol_abusers_1d
 add action=drop chain=prerouting comment=\
@@ -34,3 +37,11 @@ add action=drop chain=prerouting comment=\
     00_firehol_abusers_30d
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Malware" \
     src-address-list=00_firehol_malware
+add action=drop chain=prerouting comment="IP List VOIP-RBL" \
+    src-address-list=00_voip-blacklist
+add action=drop chain=prerouting comment=\
+    "IP List Blacklist Firehol Proxies" src-address-list=\
+    00_firehol_proxies
+add action=drop chain=prerouting comment=\
+    "IP List Blacklist Firehol Anonymous" src-address-list=\
+    00_firehol_anonymous
