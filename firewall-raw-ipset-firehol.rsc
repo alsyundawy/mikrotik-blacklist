@@ -21,6 +21,10 @@ add action=drop chain=prerouting comment="IP List Blacklist GreenSnoW" \
     src-address-list=00_greensnow
 add action=drop chain=prerouting comment="IP List Malc0de" \
     src-address-list=00_malc0de
+add action=drop chain=prerouting comment="IP MalwareDomain List" \
+    src-address-list=00_MalwareDomainList
+add action=drop chain=prerouting comment="IP List URLVir-Malware" \
+    src-address-list=00_URLVir
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 1" \
     src-address-list=00_firehol_level1
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 2" \
