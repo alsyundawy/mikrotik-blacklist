@@ -2,19 +2,11 @@
 # Script untuk menambahkan IP Address BGP yang terdaftar di Router NICE(OIXP)
 # ke RouterOS dalam ADDRESS-LIST dengan nama "nice"
 # Script created by: Valens Riyadi @ www.mikrotik.co.id
-<<<<<<< HEAD
 # Generated at 22 February 2023 20:00:07 WIB ... 8487 lines
 # Generated in 5.649 seconds
 # How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
 
 /sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 22 February 2023 20:00:07 WIB, 8487 lines."
-=======
-# Generated at 21 February 2023 00:00:07 WIB ... 8491 lines
-# Generated in 5.726 seconds
-# How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
-
-/sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 21 February 2023 00:00:07 WIB, 8491 lines."
->>>>>>> ef4ae9445a9d40bf261f63dc861fe4dcbf8afa09
 
 /ip firewall address-list
 add list=nice address="1.2.3.4"
@@ -1819,6 +1811,7 @@ add list=nice address="103.122.64.0/21"
 add list=nice address="103.123.64.0/21"
 add list=nice address="103.127.8.0/21"
 add list=nice address="103.135.0.0/21"
+add list=nice address="103.143.96.0/21"
 add list=nice address="103.148.192.0/21"
 add list=nice address="103.150.96.0/21"
 add list=nice address="103.154.216.0/21"
@@ -2779,7 +2772,6 @@ add list=nice address="103.141.160.0/22"
 add list=nice address="103.142.252.0/22"
 add list=nice address="103.143.52.0/22"
 add list=nice address="103.143.64.0/22"
-add list=nice address="103.143.100.0/22"
 add list=nice address="103.143.104.0/22"
 add list=nice address="103.143.128.0/22"
 add list=nice address="103.143.192.0/22"
@@ -2951,6 +2943,7 @@ add list=nice address="103.184.64.0/22"
 add list=nice address="103.184.180.0/22"
 add list=nice address="103.185.48.0/22"
 add list=nice address="103.186.8.0/22"
+add list=nice address="103.186.92.0/22"
 add list=nice address="103.186.96.0/22"
 add list=nice address="103.186.192.0/22"
 add list=nice address="103.186.200.0/22"
@@ -3884,6 +3877,7 @@ add list=nice address="103.44.26.0/23"
 add list=nice address="103.46.186.0/23"
 add list=nice address="103.47.10.0/23"
 add list=nice address="103.47.228.0/23"
+add list=nice address="103.49.50.0/23"
 add list=nice address="103.49.238.0/23"
 add list=nice address="103.50.216.0/23"
 add list=nice address="103.51.106.0/23"
@@ -4183,7 +4177,6 @@ add list=nice address="103.143.32.0/23"
 add list=nice address="103.143.58.0/23"
 add list=nice address="103.143.62.0/23"
 add list=nice address="103.143.70.0/23"
-add list=nice address="103.143.98.0/23"
 add list=nice address="103.143.110.0/23"
 add list=nice address="103.143.114.0/23"
 add list=nice address="103.143.116.0/23"
@@ -4293,10 +4286,6 @@ add list=nice address="103.150.80.0/23"
 add list=nice address="103.150.92.0/23"
 add list=nice address="103.150.116.0/23"
 add list=nice address="103.150.120.0/23"
-<<<<<<< HEAD
-=======
-add list=nice address="103.150.150.0/23"
->>>>>>> ef4ae9445a9d40bf261f63dc861fe4dcbf8afa09
 add list=nice address="103.150.158.0/23"
 add list=nice address="103.150.168.0/23"
 add list=nice address="103.150.174.0/23"
@@ -4724,7 +4713,6 @@ add list=nice address="103.186.30.0/23"
 add list=nice address="103.186.58.0/23"
 add list=nice address="103.186.60.0/23"
 add list=nice address="103.186.90.0/23"
-add list=nice address="103.186.92.0/23"
 add list=nice address="103.186.164.0/23"
 add list=nice address="103.186.212.0/23"
 add list=nice address="103.187.86.0/23"
@@ -5797,11 +5785,7 @@ add list=nice address="47.235.1.0/24"
 add list=nice address="47.235.4.0/24"
 add list=nice address="49.156.20.0/24"
 add list=nice address="49.156.60.0/24"
-<<<<<<< HEAD
 add list=nice address="49.157.42.0/24"
-=======
-add list=nice address="49.157.32.0/24"
->>>>>>> ef4ae9445a9d40bf261f63dc861fe4dcbf8afa09
 add list=nice address="50.31.30.0/24"
 add list=nice address="50.31.65.0/24"
 add list=nice address="50.31.78.0/24"
@@ -6673,7 +6657,6 @@ add list=nice address="103.150.22.0/24"
 add list=nice address="103.150.45.0/24"
 add list=nice address="103.150.47.0/24"
 add list=nice address="103.150.137.0/24"
-add list=nice address="103.150.148.0/24"
 add list=nice address="103.150.161.0/24"
 add list=nice address="103.150.223.0/24"
 add list=nice address="103.151.13.0/24"
@@ -7127,6 +7110,7 @@ add list=nice address="110.50.234.0/24"
 add list=nice address="110.50.237.0/24"
 add list=nice address="110.170.240.0/24"
 add list=nice address="110.232.178.0/24"
+add list=nice address="111.92.161.0/24"
 add list=nice address="111.92.164.0/24"
 add list=nice address="111.92.170.0/24"
 add list=nice address="111.221.29.0/24"
@@ -7298,6 +7282,7 @@ add list=nice address="123.253.251.0/24"
 add list=nice address="124.158.132.0/24"
 add list=nice address="124.195.60.0/24"
 add list=nice address="125.163.218.0/24"
+add list=nice address="125.234.168.0/24"
 add list=nice address="128.1.26.0/24"
 add list=nice address="128.1.54.0/24"
 add list=nice address="128.1.67.0/24"
@@ -8279,10 +8264,7 @@ add list=nice address="203.34.80.0/24"
 add list=nice address="203.34.100.0/24"
 add list=nice address="203.55.107.0/24"
 add list=nice address="203.55.215.0/24"
-<<<<<<< HEAD
 add list=nice address="203.56.176.0/24"
-=======
->>>>>>> ef4ae9445a9d40bf261f63dc861fe4dcbf8afa09
 add list=nice address="203.77.234.0/24"
 add list=nice address="203.77.242.0/24"
 add list=nice address="203.77.244.0/24"
