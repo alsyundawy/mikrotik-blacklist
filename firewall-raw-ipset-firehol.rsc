@@ -2,7 +2,7 @@
 # Script ini update setiap hari secara automatis
 # Script ini bebas digunakan dan dimodifikasi
 # Script ini dibuat & dimodifikasi oleh Harry DS Alsyundawy | alsyundawy@sysadmin.my.id |
-# HARRY DS ALSYUNDAWY | KAUM REBAHAN GARIS KERAS DAN MILITAN | https://github.com/alsyundawy | CopyLeft @2023
+# HARRY DS ALSYUNDAWY | KAUM REBAHAN GARIS KERAS DAN MILITAN | https://github.com/alsyundawy | CopyLeft @2022
 
 
 /ip firewall raw
