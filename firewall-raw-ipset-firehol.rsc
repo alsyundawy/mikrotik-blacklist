@@ -23,6 +23,8 @@ add action=drop chain=prerouting comment="IP List Malc0de" \
     src-address-list=00_malc0de
 add action=drop chain=prerouting comment="IP MalwareDomain List" \
     src-address-list=00_MalwareDomainList
+add action=drop chain=prerouting comment="IP Kominfo TrustPositif BlackList" \
+    src-address-list=00_TrustPositifList
 add action=drop chain=prerouting comment="IP List URLVir-Malware" \
     src-address-list=00_URLVir
 add action=drop chain=prerouting comment="IP List Blacklist Firehol Level 1" \
