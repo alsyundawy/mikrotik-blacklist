@@ -2,7 +2,7 @@
 # Script ini update setiap hari secara automatis
 # Script ini bebas digunakan dan dimodifikasi
 # Script ini dibuat & dimodifikasi oleh Harry DS Alsyundawy | alsyundawy@sysadmin.my.id |
-# HARRY DS ALSYUNDAWY | KAUM REBAHAN GARIS KERAS DAN MILITAN | https://github.com/alsyundawy | CopyLeft @2022
+# HARRY DS ALSYUNDAWY | KAUM REBAHAN GARIS KERAS DAN MILITAN | https://github.com/alsyundawy | CopyLeft @2023
 
 
 /ip firewall raw
@@ -49,3 +49,9 @@ add action=drop chain=prerouting comment=\
 add action=drop chain=prerouting comment=\
     "IP List Blacklist Firehol Anonymous" src-address-list=\
     00_firehol_anonymous
+add action=drop chain=prerouting comment=\
+    "DNS Public List" src-address-list=\
+    00_dns-public
+add action=drop chain=prerouting comment=\
+    "TrustPositifList" src-address-list=\
+    00_TrustPositifList
