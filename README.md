@@ -11,6 +11,8 @@
 [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/mikrotik-blacklist?style=social)](https://github.com/alsyundawy/mikrotik-blacklist/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/mikrotik-blacklist?style=social)](https://github.com/alsyundawy/mikrotik-blacklist/graphs/contributors)
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/alsyundawy/mikrotik-blacklist.svg?variant=adaptive)](https://starchart.cc/alsyundawy/mikrotik-blacklist)
 
 ## **Sebagai Bentuk Dukungan Terhadap Keamanan Router Mikrotik Anda**
 
