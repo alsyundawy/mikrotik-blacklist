@@ -11,6 +11,8 @@
 [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/mikrotik-blacklist?style=social)](https://github.com/alsyundawy/mikrotik-blacklist/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/mikrotik-blacklist?style=social)](https://github.com/alsyundawy/mikrotik-blacklist/graphs/contributors)
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/alsyundawy/mikrotik-blacklist.svg?variant=adaptive)](https://starchart.cc/alsyundawy/mikrotik-blacklist)
 
 ## **Sebagai Bentuk Dukungan Terhadap Keamanan Router Mikrotik Anda**
 
@@ -20,3 +22,5 @@
 
 
 ### Anda Memang Luar Biasa | Harry DS Alsyundawy | Kaum Rebahan Garis Keras & Militan
+
+![Alt](https://repobeats.axiom.co/api/embed/75c94e83220b44df08a86f6dab16eb33d11cfab8.svg "Repobeats analytics image")
