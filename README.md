@@ -16,6 +16,7 @@
 
 ## **Sebagai Bentuk Dukungan Terhadap Keamanan Router Mikrotik Anda**
 
+**Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
 
 **Anda bebas untuk mengubah, mendistribusikan script ini untuk keperluan anda**
 
