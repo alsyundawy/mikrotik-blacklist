@@ -2,11 +2,11 @@
 # Script untuk menambahkan IP Address BGP yang terdaftar di Router NICE(OIXP)
 # ke RouterOS dalam ADDRESS-LIST dengan nama "nice"
 # Script created by: Valens Riyadi @ www.mikrotik.co.id
-# Generated at 13 April 2025 10:00:11 WIB ... 11612 lines
-# Generated in 9.593 seconds
+# Generated at 13 April 2025 12:00:10 WIB ... 11611 lines
+# Generated in 9.584 seconds
 # How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
 
-/sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 13 April 2025 10:00:11 WIB, 11612 lines."
+/sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 13 April 2025 12:00:10 WIB, 11611 lines."
 
 /ip firewall address-list
 add list=nice address="1.2.3.4"
@@ -6069,7 +6069,6 @@ add list=nice address="157.20.36.0/23"
 add list=nice address="157.20.90.0/23"
 add list=nice address="157.20.188.0/23"
 add list=nice address="157.20.206.0/23"
-add list=nice address="157.20.218.0/23"
 add list=nice address="157.20.230.0/23"
 add list=nice address="157.20.232.0/23"
 add list=nice address="157.20.252.0/23"
@@ -9390,7 +9389,7 @@ add list=nice address="122.200.150.0/24"
 add list=nice address="122.248.36.0/24"
 add list=nice address="123.100.226.0/24"
 add list=nice address="123.231.195.0/24"
-add list=nice address="123.231.206.0/24"
+add list=nice address="123.231.207.0/24"
 add list=nice address="123.253.172.0/24"
 add list=nice address="124.158.131.0/24"
 add list=nice address="124.195.5.0/24"
@@ -9449,7 +9448,6 @@ add list=nice address="129.230.242.0/24"
 add list=nice address="130.108.73.0/24"
 add list=nice address="130.108.253.0/24"
 add list=nice address="130.137.29.0/24"
-add list=nice address="130.137.140.0/24"
 add list=nice address="130.176.3.0/24"
 add list=nice address="130.176.16.0/24"
 add list=nice address="130.176.24.0/24"
@@ -10313,6 +10311,7 @@ add list=nice address="172.111.149.0/24"
 add list=nice address="172.111.166.0/24"
 add list=nice address="172.111.172.0/24"
 add list=nice address="172.111.180.0/24"
+add list=nice address="173.82.67.0/24"
 add list=nice address="173.82.104.0/24"
 add list=nice address="173.83.210.0/24"
 add list=nice address="173.195.98.0/24"
