@@ -1,552 +1,555 @@
-# Dihasilkan oleh Harry DS Alsyundawy pada Sat Jun 28 08:35:40 AM WIB 2025, IP yang diblokir dilaporkan blok BinaryDefense-BlackList
+# Generated on Sat Jun 28 09:10:18 AM WIB 2025
+# Source: http://www.binarydefense.com/banlist.txt
+# Description: Binary Defense
 /ip firewall address-list
-rem [find list="00_BinaryDefense"]
-add list=00_BinaryDefense address=1.33.6.2 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=1.52.39.181 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=1.62.5.239 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=2.57.121.247 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=3.130.96.91 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=3.131.215.38 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=3.134.148.59 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=4.227.178.208 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=5.160.48.195 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=5.188.86.196 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=5.190.15.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=8.219.246.0 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=8.222.128.242 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=12.179.121.2 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=13.86.113.74 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=13.89.125.19 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=13.89.125.20 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=14.224.182.218 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=14.225.202.191 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=18.220.154.78 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.46.244.172 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.64.105.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.64.106.91 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.120.227.37 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.150.192.39 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.163.2.35 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.163.14.19 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.163.15.93 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.163.15.107 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.163.60.142 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.168.0.86 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.168.121.92 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.168.125.90 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=20.169.107.190 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=24.173.30.170 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=24.182.111.21 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=24.199.104.216 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=31.57.61.127 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=34.28.207.190 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=34.38.103.154 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=34.68.3.41 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=34.78.69.184 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=34.208.44.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.87.226.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.202.9.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.203.211.13 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.203.211.38 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.203.211.81 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.205.128.136 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=35.224.33.160 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=39.129.28.165 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=39.129.143.79 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=39.174.172.78 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=40.119.43.103 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=40.124.175.76 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=40.124.175.251 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=42.200.150.157 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.9.168.192 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.11.229.107 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.78.213.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.5.11 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.73.126 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.128.205 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.181.223 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.207.71 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.79.207.252 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.131.155.254 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.134.26.82 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.141.233.73 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.142.193.91 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.146.130.128 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.156.128.128 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.227.253.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.227.253.52 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.227.254.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.227.254.155 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.227.254.156 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=45.249.245.54 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=46.45.217.85 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=47.76.211.88 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=47.181.154.27 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=52.142.57.37 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=54.151.50.31 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=54.202.23.128 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=58.58.119.250 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=58.212.237.179 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=58.220.41.251 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=60.13.138.102 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=60.13.138.174 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=61.183.141.158 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=61.228.20.213 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.156.167 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.156.182 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.156.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.29 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.32 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.62 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.122 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.137 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=64.62.197.227 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=65.49.1.52 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=65.49.1.132 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=65.49.1.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=65.49.1.143 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=65.49.1.152 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=66.63.187.21 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=66.228.53.136 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=66.228.53.157 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=66.240.223.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=71.6.134.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=71.6.167.142 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=71.196.213.75 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=73.165.206.206 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=73.224.51.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=74.50.211.178 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=74.82.47.5 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=75.98.220.8 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=79.124.58.198 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.78.28.127 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.82.65.17 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.82.77.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.94.95.115 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.94.95.116 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=80.191.203.175 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=81.29.134.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=83.222.191.94 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=83.239.158.174 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=85.215.63.203 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=85.237.46.251 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=86.48.18.128 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=86.54.31.32 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.121.84.16 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.121.84.34 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.236.176.10 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.236.176.197 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.236.176.210 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=87.236.176.213 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=88.214.25.121 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=88.214.25.123 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=88.214.25.124 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=89.42.231.140 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.90.123.12 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.196.152.5 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.196.152.25 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.196.152.29 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.196.152.89 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.196.152.95 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.231.89.104 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=91.238.181.92 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=92.63.197.23 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=92.118.39.92 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=92.118.39.95 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=93.123.109.191 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=94.154.35.122 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=101.36.117.15 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=101.70.105.226 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=101.89.134.2 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=101.200.243.197 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=102.33.155.126 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=103.29.69.96 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=103.88.123.254 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=104.152.52.162 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=104.152.52.244 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=104.234.115.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=104.234.115.186 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=104.248.235.219 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=106.75.157.47 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=106.75.164.40 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=106.75.188.200 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=107.150.0.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=107.172.235.69 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=107.174.224.18 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=108.165.153.6 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=108.165.153.7 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=109.199.105.106 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=109.210.18.2 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=111.92.75.160 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=111.113.88.125 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=111.170.152.113 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=111.224.218.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=111.224.218.34 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=112.16.199.105 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=113.44.82.14 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=115.194.98.1 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=116.110.11.123 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=116.110.117.88 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=116.172.249.158 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=117.155.121.135 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=117.155.121.191 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=117.247.225.229 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=118.102.29.68 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=118.193.56.184 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=118.194.254.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=118.194.254.178 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=119.147.211.178 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=122.169.103.158 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=122.188.105.20 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=123.11.64.34 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=123.160.234.39 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=124.90.9.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=124.133.210.119 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=128.22.147.233 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=128.199.169.213 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=129.222.236.9 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=129.222.238.144 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=129.222.238.169 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=131.0.22.48 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=134.209.25.185 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=134.209.248.231 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.233.96.247 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.124.21 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.125.118 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.125.132 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.126.123 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.126.163 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.126.232 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=135.237.127.161 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=136.41.8.201 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=137.184.189.22 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=138.68.188.52 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=138.197.19.136 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=138.197.169.52 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=139.19.117.197 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=141.255.162.250 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=142.93.3.4 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=142.202.190.151 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=143.198.75.35 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=144.130.96.8 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=144.172.98.115 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=146.190.134.221 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=146.190.167.180 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=146.190.174.211 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=146.190.241.71 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.139.164.196 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.10 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.12 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.61 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.67 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.79 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.249 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.132.252 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.133.166 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=147.185.133.182 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=148.113.206.49 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=148.113.208.45 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=148.113.214.204 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=152.32.235.90 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=152.32.247.54 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=154.9.248.10 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=154.26.154.160 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=154.212.141.167 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=154.212.141.183 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=154.212.141.207 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=155.94.155.123 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=155.94.155.151 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=157.245.87.88 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=157.245.116.189 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=157.245.238.42 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=159.65.127.117 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=159.89.227.229 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=159.223.73.195 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=159.223.174.64 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=159.223.183.32 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=160.191.50.136 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.32 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.35 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.112 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.114 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.115 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.119 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.124 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.125 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.200 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.205 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.206 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.207 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.215 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.216 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.217 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.142.125.221 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.210.245.77 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.243.13.122 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=162.243.53.70 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.52.24.187 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.90.131.175 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.92.140.209 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.92.210.70 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.177.4.20 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=164.177.4.21 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=165.154.129.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=165.227.37.76 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=166.1.173.27 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=166.139.50.208 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=166.154.12.231 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.71.254.235 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.48 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.53 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.112 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.113 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.125 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.160 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.165 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.168 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.170 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.173 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.176 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.183 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.187 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.190 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.193 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.201 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.138.206 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.146.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.94.146.54 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=167.172.162.112 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=169.255.236.78 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=170.64.130.115 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=170.64.146.66 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=170.64.186.43 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=170.64.225.35 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=171.244.76.18 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=171.251.17.134 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=171.251.17.180 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.104.11.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.119.165 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.228.193 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.228.218 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.228.224 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.228.227 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=172.236.228.245 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=175.184.253.170 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=176.32.195.85 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=176.65.148.61 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=176.65.148.70 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=176.65.149.109 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=178.132.218.10 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=178.136.130.98 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=178.168.111.168 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=178.236.254.195 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=178.236.254.196 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=180.136.234.43 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=180.179.236.253 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=182.253.210.241 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=183.136.197.62 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=183.191.127.113 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=183.239.214.181 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=184.105.139.67 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=184.105.247.196 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=184.105.247.252 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.82.199.0 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.93.89.118 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.100.87.136 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.156.73.233 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.156.73.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.165.191.26 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.169.4.150 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.196.220.247 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.203.236.250 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.218.84.40 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.218.84.45 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.218.84.47 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.218.84.178 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.242.226.22 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.242.226.25 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.247.137.114 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=185.247.137.177 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=186.151.183.118 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=187.137.25.180 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=188.166.191.161 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=189.57.191.214 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=190.196.193.63 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=190.196.193.134 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=192.81.131.250 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.24.211.25 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.32.162.141 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.32.162.145 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.32.162.146 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.32.162.151 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.32.162.157 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=193.37.69.27 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.0.234.19 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.0.234.93 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.165.16.161 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.165.16.162 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.165.16.164 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.165.16.165 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=194.165.16.166 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.178.110.160 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.1 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.4 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.7 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.8 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.37 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.39 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.233 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.235 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.236 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.241 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=195.184.76.245 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=196.251.89.45 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=196.251.89.151 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=196.251.114.29 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=197.0.220.176 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.55.98.94 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.71.78.11 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.71.78.105 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.71.79.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.31 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.59 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.114 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.116 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.144 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.150 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.163 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.181 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.230 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=198.235.24.251 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=199.195.251.107 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=203.142.81.102 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=203.189.154.17 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=204.76.203.212 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.83 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.91 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.103 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.105 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.111 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.133 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.142 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.166 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.181 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.184 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.186 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.193 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.197 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.202 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.208 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.216 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.221 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.224 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.232 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.237 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.242 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.251 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=205.210.31.253 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.1.58.134 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.33 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.34 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.35 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.36 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.38 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.40 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.42 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.45 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.48 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.49 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.51 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.53 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.57 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.63 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.64 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.66 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.68 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.69 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.73 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.77 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.78 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.79 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.81 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.84 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.87 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.88 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.94 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.114 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.115 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.116 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.117 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.120 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.125 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.126 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.198 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.201 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.205 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.206 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.209 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.212 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.218 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.219 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.168.34.221 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.189.35.0 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.189.76.222 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=206.189.224.163 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=207.154.232.101 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=207.154.238.166 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=207.167.67.206 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=208.109.9.137 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=208.109.214.237 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.38.136.86 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.38.192.170 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.38.205.49 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.38.237.144 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.38.248.123 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=209.141.46.14 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=211.58.207.195 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=211.59.174.163 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=211.118.215.8 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=212.117.169.92 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=213.21.237.47 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=213.209.150.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=213.209.150.167 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=216.218.206.67 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=216.218.206.68 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=216.218.206.90 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=216.219.83.99 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=216.250.255.146 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=217.114.43.124 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=217.160.224.240 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=217.165.50.211 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=218.19.130.154 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=218.90.119.183 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=218.253.66.190 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=219.143.102.98 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=219.143.174.58 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.117.239.116 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.161.77.10 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.167.104.23 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.167.232.74 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.197.51.72 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.248.71.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.248.113.29 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=220.250.10.28 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=221.182.17.140 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=221.182.17.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=221.182.118.82 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=221.207.34.52 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.71.127.234 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.71.190.146 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.71.223.59 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.84.126.215 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.138.124.23 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=222.186.13.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.15.246.108 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.71.63.130 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.93.189.210 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.186.115.246 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.199.171.230 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.205.247.245 comment=BinaryDefense-BlackList
-add list=00_BinaryDefense address=223.240.69.191 comment=BinaryDefense-BlackList
+:do { /ip firewall address-list remove [find list="00_BinaryDefense"] } on-error={}
+add list="00_BinaryDefense" address=101.200.243.197 comment="Binary Defense"
+add list="00_BinaryDefense" address=101.36.117.15 comment="Binary Defense"
+add list="00_BinaryDefense" address=101.70.105.226 comment="Binary Defense"
+add list="00_BinaryDefense" address=101.89.134.2 comment="Binary Defense"
+add list="00_BinaryDefense" address=102.33.155.126 comment="Binary Defense"
+add list="00_BinaryDefense" address=103.29.69.96 comment="Binary Defense"
+add list="00_BinaryDefense" address=103.88.123.254 comment="Binary Defense"
+add list="00_BinaryDefense" address=104.152.52.162 comment="Binary Defense"
+add list="00_BinaryDefense" address=104.152.52.244 comment="Binary Defense"
+add list="00_BinaryDefense" address=104.234.115.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=104.234.115.186 comment="Binary Defense"
+add list="00_BinaryDefense" address=104.248.235.219 comment="Binary Defense"
+add list="00_BinaryDefense" address=106.75.157.47 comment="Binary Defense"
+add list="00_BinaryDefense" address=106.75.164.40 comment="Binary Defense"
+add list="00_BinaryDefense" address=106.75.188.200 comment="Binary Defense"
+add list="00_BinaryDefense" address=107.150.0.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=107.172.235.69 comment="Binary Defense"
+add list="00_BinaryDefense" address=107.174.224.18 comment="Binary Defense"
+add list="00_BinaryDefense" address=108.165.153.6 comment="Binary Defense"
+add list="00_BinaryDefense" address=108.165.153.7 comment="Binary Defense"
+add list="00_BinaryDefense" address=109.199.105.106 comment="Binary Defense"
+add list="00_BinaryDefense" address=109.210.18.2 comment="Binary Defense"
+add list="00_BinaryDefense" address=111.113.88.125 comment="Binary Defense"
+add list="00_BinaryDefense" address=111.170.152.113 comment="Binary Defense"
+add list="00_BinaryDefense" address=111.224.218.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=111.224.218.34 comment="Binary Defense"
+add list="00_BinaryDefense" address=111.92.75.160 comment="Binary Defense"
+add list="00_BinaryDefense" address=112.16.199.105 comment="Binary Defense"
+add list="00_BinaryDefense" address=113.44.82.14 comment="Binary Defense"
+add list="00_BinaryDefense" address=115.194.98.1 comment="Binary Defense"
+add list="00_BinaryDefense" address=116.110.11.123 comment="Binary Defense"
+add list="00_BinaryDefense" address=116.110.117.88 comment="Binary Defense"
+add list="00_BinaryDefense" address=116.172.249.158 comment="Binary Defense"
+add list="00_BinaryDefense" address=117.155.121.135 comment="Binary Defense"
+add list="00_BinaryDefense" address=117.155.121.191 comment="Binary Defense"
+add list="00_BinaryDefense" address=117.247.225.229 comment="Binary Defense"
+add list="00_BinaryDefense" address=118.102.29.68 comment="Binary Defense"
+add list="00_BinaryDefense" address=118.193.56.184 comment="Binary Defense"
+add list="00_BinaryDefense" address=118.194.254.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=118.194.254.178 comment="Binary Defense"
+add list="00_BinaryDefense" address=119.147.211.178 comment="Binary Defense"
+add list="00_BinaryDefense" address=12.179.121.2 comment="Binary Defense"
+add list="00_BinaryDefense" address=122.169.103.158 comment="Binary Defense"
+add list="00_BinaryDefense" address=122.188.105.20 comment="Binary Defense"
+add list="00_BinaryDefense" address=123.11.64.34 comment="Binary Defense"
+add list="00_BinaryDefense" address=123.160.234.39 comment="Binary Defense"
+add list="00_BinaryDefense" address=124.133.210.119 comment="Binary Defense"
+add list="00_BinaryDefense" address=124.90.9.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=128.199.169.213 comment="Binary Defense"
+add list="00_BinaryDefense" address=128.22.147.233 comment="Binary Defense"
+add list="00_BinaryDefense" address=129.222.236.9 comment="Binary Defense"
+add list="00_BinaryDefense" address=129.222.238.144 comment="Binary Defense"
+add list="00_BinaryDefense" address=129.222.238.169 comment="Binary Defense"
+add list="00_BinaryDefense" address=131.0.22.48 comment="Binary Defense"
+add list="00_BinaryDefense" address=1.33.6.2 comment="Binary Defense"
+add list="00_BinaryDefense" address=134.209.248.231 comment="Binary Defense"
+add list="00_BinaryDefense" address=134.209.25.185 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.233.96.247 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.124.21 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.125.118 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.125.132 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.126.123 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.126.163 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.126.232 comment="Binary Defense"
+add list="00_BinaryDefense" address=135.237.127.161 comment="Binary Defense"
+add list="00_BinaryDefense" address=136.41.8.201 comment="Binary Defense"
+add list="00_BinaryDefense" address=137.184.189.22 comment="Binary Defense"
+add list="00_BinaryDefense" address=138.197.169.52 comment="Binary Defense"
+add list="00_BinaryDefense" address=138.197.19.136 comment="Binary Defense"
+add list="00_BinaryDefense" address=13.86.113.74 comment="Binary Defense"
+add list="00_BinaryDefense" address=138.68.188.52 comment="Binary Defense"
+add list="00_BinaryDefense" address=13.89.125.19 comment="Binary Defense"
+add list="00_BinaryDefense" address=13.89.125.20 comment="Binary Defense"
+add list="00_BinaryDefense" address=139.19.117.197 comment="Binary Defense"
+add list="00_BinaryDefense" address=141.255.162.250 comment="Binary Defense"
+add list="00_BinaryDefense" address=142.202.190.151 comment="Binary Defense"
+add list="00_BinaryDefense" address=14.224.182.218 comment="Binary Defense"
+add list="00_BinaryDefense" address=14.225.202.191 comment="Binary Defense"
+add list="00_BinaryDefense" address=142.93.3.4 comment="Binary Defense"
+add list="00_BinaryDefense" address=143.198.75.35 comment="Binary Defense"
+add list="00_BinaryDefense" address=144.130.96.8 comment="Binary Defense"
+add list="00_BinaryDefense" address=144.172.98.115 comment="Binary Defense"
+add list="00_BinaryDefense" address=146.190.134.221 comment="Binary Defense"
+add list="00_BinaryDefense" address=146.190.167.180 comment="Binary Defense"
+add list="00_BinaryDefense" address=146.190.174.211 comment="Binary Defense"
+add list="00_BinaryDefense" address=146.190.241.71 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.139.164.196 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.10 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.12 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.249 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.252 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.61 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.67 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.132.79 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.133.166 comment="Binary Defense"
+add list="00_BinaryDefense" address=147.185.133.182 comment="Binary Defense"
+add list="00_BinaryDefense" address=148.113.206.49 comment="Binary Defense"
+add list="00_BinaryDefense" address=148.113.208.45 comment="Binary Defense"
+add list="00_BinaryDefense" address=148.113.214.204 comment="Binary Defense"
+add list="00_BinaryDefense" address=152.32.235.90 comment="Binary Defense"
+add list="00_BinaryDefense" address=152.32.247.54 comment="Binary Defense"
+add list="00_BinaryDefense" address=1.52.39.181 comment="Binary Defense"
+add list="00_BinaryDefense" address=154.212.141.167 comment="Binary Defense"
+add list="00_BinaryDefense" address=154.212.141.183 comment="Binary Defense"
+add list="00_BinaryDefense" address=154.212.141.207 comment="Binary Defense"
+add list="00_BinaryDefense" address=154.26.154.160 comment="Binary Defense"
+add list="00_BinaryDefense" address=154.9.248.10 comment="Binary Defense"
+add list="00_BinaryDefense" address=155.94.155.123 comment="Binary Defense"
+add list="00_BinaryDefense" address=155.94.155.151 comment="Binary Defense"
+add list="00_BinaryDefense" address=157.245.116.189 comment="Binary Defense"
+add list="00_BinaryDefense" address=157.245.238.42 comment="Binary Defense"
+add list="00_BinaryDefense" address=157.245.87.88 comment="Binary Defense"
+add list="00_BinaryDefense" address=159.223.174.64 comment="Binary Defense"
+add list="00_BinaryDefense" address=159.223.183.32 comment="Binary Defense"
+add list="00_BinaryDefense" address=159.223.73.195 comment="Binary Defense"
+add list="00_BinaryDefense" address=159.65.127.117 comment="Binary Defense"
+add list="00_BinaryDefense" address=159.89.227.229 comment="Binary Defense"
+add list="00_BinaryDefense" address=160.191.50.136 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.112 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.114 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.115 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.119 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.124 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.125 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.200 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.205 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.206 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.207 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.215 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.216 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.217 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.221 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.32 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.142.125.35 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.210.245.77 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.243.13.122 comment="Binary Defense"
+add list="00_BinaryDefense" address=162.243.53.70 comment="Binary Defense"
+add list="00_BinaryDefense" address=1.62.5.239 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.177.4.20 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.177.4.21 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.52.24.187 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.90.131.175 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.92.140.209 comment="Binary Defense"
+add list="00_BinaryDefense" address=164.92.210.70 comment="Binary Defense"
+add list="00_BinaryDefense" address=165.154.129.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=165.227.37.76 comment="Binary Defense"
+add list="00_BinaryDefense" address=166.1.173.27 comment="Binary Defense"
+add list="00_BinaryDefense" address=166.139.50.208 comment="Binary Defense"
+add list="00_BinaryDefense" address=166.154.12.231 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.172.162.112 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.71.254.235 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.112 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.113 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.125 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.160 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.165 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.168 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.170 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.173 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.176 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.183 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.187 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.190 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.193 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.201 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.206 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.48 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.138.53 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.146.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=167.94.146.54 comment="Binary Defense"
+add list="00_BinaryDefense" address=169.255.236.78 comment="Binary Defense"
+add list="00_BinaryDefense" address=170.64.130.115 comment="Binary Defense"
+add list="00_BinaryDefense" address=170.64.146.66 comment="Binary Defense"
+add list="00_BinaryDefense" address=170.64.186.43 comment="Binary Defense"
+add list="00_BinaryDefense" address=170.64.225.35 comment="Binary Defense"
+add list="00_BinaryDefense" address=171.244.76.18 comment="Binary Defense"
+add list="00_BinaryDefense" address=171.251.17.134 comment="Binary Defense"
+add list="00_BinaryDefense" address=171.251.17.180 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.104.11.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.119.165 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.228.193 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.228.218 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.228.224 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.228.227 comment="Binary Defense"
+add list="00_BinaryDefense" address=172.236.228.245 comment="Binary Defense"
+add list="00_BinaryDefense" address=175.184.253.170 comment="Binary Defense"
+add list="00_BinaryDefense" address=176.32.195.85 comment="Binary Defense"
+add list="00_BinaryDefense" address=176.65.148.61 comment="Binary Defense"
+add list="00_BinaryDefense" address=176.65.148.70 comment="Binary Defense"
+add list="00_BinaryDefense" address=176.65.149.109 comment="Binary Defense"
+add list="00_BinaryDefense" address=178.132.218.10 comment="Binary Defense"
+add list="00_BinaryDefense" address=178.136.130.98 comment="Binary Defense"
+add list="00_BinaryDefense" address=178.168.111.168 comment="Binary Defense"
+add list="00_BinaryDefense" address=178.236.254.195 comment="Binary Defense"
+add list="00_BinaryDefense" address=178.236.254.196 comment="Binary Defense"
+add list="00_BinaryDefense" address=180.136.234.43 comment="Binary Defense"
+add list="00_BinaryDefense" address=180.179.236.253 comment="Binary Defense"
+add list="00_BinaryDefense" address=18.220.154.78 comment="Binary Defense"
+add list="00_BinaryDefense" address=182.253.210.241 comment="Binary Defense"
+add list="00_BinaryDefense" address=183.136.197.62 comment="Binary Defense"
+add list="00_BinaryDefense" address=183.191.127.113 comment="Binary Defense"
+add list="00_BinaryDefense" address=183.239.214.181 comment="Binary Defense"
+add list="00_BinaryDefense" address=184.105.139.67 comment="Binary Defense"
+add list="00_BinaryDefense" address=184.105.247.196 comment="Binary Defense"
+add list="00_BinaryDefense" address=184.105.247.252 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.100.87.136 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.156.73.233 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.156.73.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.165.191.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.169.4.150 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.196.220.247 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.203.236.250 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.218.84.178 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.218.84.40 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.218.84.45 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.218.84.47 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.242.226.22 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.242.226.25 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.247.137.114 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.247.137.177 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.82.199.0 comment="Binary Defense"
+add list="00_BinaryDefense" address=185.93.89.118 comment="Binary Defense"
+add list="00_BinaryDefense" address=186.151.183.118 comment="Binary Defense"
+add list="00_BinaryDefense" address=187.137.25.180 comment="Binary Defense"
+add list="00_BinaryDefense" address=188.166.191.161 comment="Binary Defense"
+add list="00_BinaryDefense" address=189.57.191.214 comment="Binary Defense"
+add list="00_BinaryDefense" address=190.196.193.134 comment="Binary Defense"
+add list="00_BinaryDefense" address=190.196.193.63 comment="Binary Defense"
+add list="00_BinaryDefense" address=192.81.131.250 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.24.211.25 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.32.162.141 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.32.162.145 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.32.162.146 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.32.162.151 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.32.162.157 comment="Binary Defense"
+add list="00_BinaryDefense" address=193.37.69.27 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.0.234.19 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.0.234.93 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.165.16.161 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.165.16.162 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.165.16.164 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.165.16.165 comment="Binary Defense"
+add list="00_BinaryDefense" address=194.165.16.166 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.178.110.160 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.1 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.233 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.235 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.236 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.241 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.245 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.37 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.39 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.4 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.7 comment="Binary Defense"
+add list="00_BinaryDefense" address=195.184.76.8 comment="Binary Defense"
+add list="00_BinaryDefense" address=196.251.114.29 comment="Binary Defense"
+add list="00_BinaryDefense" address=196.251.89.151 comment="Binary Defense"
+add list="00_BinaryDefense" address=196.251.89.45 comment="Binary Defense"
+add list="00_BinaryDefense" address=197.0.220.176 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.114 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.116 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.144 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.150 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.163 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.181 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.230 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.251 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.31 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.235.24.59 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.55.98.94 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.71.78.105 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.71.78.11 comment="Binary Defense"
+add list="00_BinaryDefense" address=198.71.79.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=199.195.251.107 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.120.227.37 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.150.192.39 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.163.14.19 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.163.15.107 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.163.15.93 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.163.2.35 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.163.60.142 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.168.0.86 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.168.121.92 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.168.125.90 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.169.107.190 comment="Binary Defense"
+add list="00_BinaryDefense" address=203.142.81.102 comment="Binary Defense"
+add list="00_BinaryDefense" address=203.189.154.17 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.46.244.172 comment="Binary Defense"
+add list="00_BinaryDefense" address=204.76.203.212 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.103 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.105 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.111 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.142 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.166 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.181 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.184 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.186 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.193 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.197 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.208 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.216 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.221 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.224 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.232 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.237 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.242 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.251 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.253 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.83 comment="Binary Defense"
+add list="00_BinaryDefense" address=205.210.31.91 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.1.58.134 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.114 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.115 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.116 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.117 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.120 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.125 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.126 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.198 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.201 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.205 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.206 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.209 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.212 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.218 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.219 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.221 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.33 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.34 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.35 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.36 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.38 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.40 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.42 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.45 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.48 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.49 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.53 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.57 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.63 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.64 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.66 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.68 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.69 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.73 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.77 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.78 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.79 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.81 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.84 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.87 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.88 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.168.34.94 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.189.224.163 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.189.35.0 comment="Binary Defense"
+add list="00_BinaryDefense" address=206.189.76.222 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.64.105.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=20.64.106.91 comment="Binary Defense"
+add list="00_BinaryDefense" address=207.154.232.101 comment="Binary Defense"
+add list="00_BinaryDefense" address=207.154.238.166 comment="Binary Defense"
+add list="00_BinaryDefense" address=207.167.67.206 comment="Binary Defense"
+add list="00_BinaryDefense" address=208.109.214.237 comment="Binary Defense"
+add list="00_BinaryDefense" address=208.109.9.137 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.141.46.14 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.38.136.86 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.38.192.170 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.38.205.49 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.38.237.144 comment="Binary Defense"
+add list="00_BinaryDefense" address=209.38.248.123 comment="Binary Defense"
+add list="00_BinaryDefense" address=211.118.215.8 comment="Binary Defense"
+add list="00_BinaryDefense" address=211.58.207.195 comment="Binary Defense"
+add list="00_BinaryDefense" address=211.59.174.163 comment="Binary Defense"
+add list="00_BinaryDefense" address=212.117.169.92 comment="Binary Defense"
+add list="00_BinaryDefense" address=213.209.150.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=213.209.150.167 comment="Binary Defense"
+add list="00_BinaryDefense" address=213.21.237.47 comment="Binary Defense"
+add list="00_BinaryDefense" address=216.218.206.67 comment="Binary Defense"
+add list="00_BinaryDefense" address=216.218.206.68 comment="Binary Defense"
+add list="00_BinaryDefense" address=216.218.206.90 comment="Binary Defense"
+add list="00_BinaryDefense" address=216.219.83.99 comment="Binary Defense"
+add list="00_BinaryDefense" address=216.250.255.146 comment="Binary Defense"
+add list="00_BinaryDefense" address=217.114.43.124 comment="Binary Defense"
+add list="00_BinaryDefense" address=217.160.224.240 comment="Binary Defense"
+add list="00_BinaryDefense" address=217.165.50.211 comment="Binary Defense"
+add list="00_BinaryDefense" address=218.19.130.154 comment="Binary Defense"
+add list="00_BinaryDefense" address=218.253.66.190 comment="Binary Defense"
+add list="00_BinaryDefense" address=218.90.119.183 comment="Binary Defense"
+add list="00_BinaryDefense" address=219.143.102.98 comment="Binary Defense"
+add list="00_BinaryDefense" address=219.143.174.58 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.117.239.116 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.161.77.10 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.167.104.23 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.167.232.74 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.197.51.72 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.248.113.29 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.248.71.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=220.250.10.28 comment="Binary Defense"
+add list="00_BinaryDefense" address=221.182.118.82 comment="Binary Defense"
+add list="00_BinaryDefense" address=221.182.17.140 comment="Binary Defense"
+add list="00_BinaryDefense" address=221.182.17.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=221.207.34.52 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.138.124.23 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.186.13.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.71.127.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.71.190.146 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.71.223.59 comment="Binary Defense"
+add list="00_BinaryDefense" address=222.84.126.215 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.15.246.108 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.186.115.246 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.199.171.230 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.205.247.245 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.240.69.191 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.71.63.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=223.93.189.210 comment="Binary Defense"
+add list="00_BinaryDefense" address=24.173.30.170 comment="Binary Defense"
+add list="00_BinaryDefense" address=24.182.111.21 comment="Binary Defense"
+add list="00_BinaryDefense" address=24.199.104.216 comment="Binary Defense"
+add list="00_BinaryDefense" address=2.57.121.247 comment="Binary Defense"
+add list="00_BinaryDefense" address=3.130.96.91 comment="Binary Defense"
+add list="00_BinaryDefense" address=3.131.215.38 comment="Binary Defense"
+add list="00_BinaryDefense" address=3.134.148.59 comment="Binary Defense"
+add list="00_BinaryDefense" address=31.57.61.127 comment="Binary Defense"
+add list="00_BinaryDefense" address=34.208.44.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=34.28.207.190 comment="Binary Defense"
+add list="00_BinaryDefense" address=34.38.103.154 comment="Binary Defense"
+add list="00_BinaryDefense" address=34.68.3.41 comment="Binary Defense"
+add list="00_BinaryDefense" address=34.78.69.184 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.202.9.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.203.211.13 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.203.211.38 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.203.211.81 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.205.128.136 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.224.33.160 comment="Binary Defense"
+add list="00_BinaryDefense" address=35.87.226.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=39.129.143.79 comment="Binary Defense"
+add list="00_BinaryDefense" address=39.129.28.165 comment="Binary Defense"
+add list="00_BinaryDefense" address=39.174.172.78 comment="Binary Defense"
+add list="00_BinaryDefense" address=40.119.43.103 comment="Binary Defense"
+add list="00_BinaryDefense" address=40.124.175.251 comment="Binary Defense"
+add list="00_BinaryDefense" address=40.124.175.76 comment="Binary Defense"
+add list="00_BinaryDefense" address=42.200.150.157 comment="Binary Defense"
+add list="00_BinaryDefense" address=4.227.178.208 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.11.229.107 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.131.155.254 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.134.26.82 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.141.233.73 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.142.193.91 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.146.130.128 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.156.128.128 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.227.253.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.227.253.52 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.227.254.130 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.227.254.155 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.227.254.156 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.249.245.54 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.78.213.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.128.205 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.181.223 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.207.252 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.207.71 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.5.11 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.79.73.126 comment="Binary Defense"
+add list="00_BinaryDefense" address=45.9.168.192 comment="Binary Defense"
+add list="00_BinaryDefense" address=46.45.217.85 comment="Binary Defense"
+add list="00_BinaryDefense" address=47.181.154.27 comment="Binary Defense"
+add list="00_BinaryDefense" address=47.76.211.88 comment="Binary Defense"
+add list="00_BinaryDefense" address=5.160.48.195 comment="Binary Defense"
+add list="00_BinaryDefense" address=5.188.86.196 comment="Binary Defense"
+add list="00_BinaryDefense" address=5.190.15.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=52.142.57.37 comment="Binary Defense"
+add list="00_BinaryDefense" address=54.151.50.31 comment="Binary Defense"
+add list="00_BinaryDefense" address=54.202.23.128 comment="Binary Defense"
+add list="00_BinaryDefense" address=58.212.237.179 comment="Binary Defense"
+add list="00_BinaryDefense" address=58.220.41.251 comment="Binary Defense"
+add list="00_BinaryDefense" address=58.58.119.250 comment="Binary Defense"
+add list="00_BinaryDefense" address=60.13.138.102 comment="Binary Defense"
+add list="00_BinaryDefense" address=60.13.138.174 comment="Binary Defense"
+add list="00_BinaryDefense" address=61.183.141.158 comment="Binary Defense"
+add list="00_BinaryDefense" address=61.228.20.213 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.156.167 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.156.182 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.156.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.122 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.137 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.227 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.29 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.32 comment="Binary Defense"
+add list="00_BinaryDefense" address=64.62.197.62 comment="Binary Defense"
+add list="00_BinaryDefense" address=65.49.1.132 comment="Binary Defense"
+add list="00_BinaryDefense" address=65.49.1.133 comment="Binary Defense"
+add list="00_BinaryDefense" address=65.49.1.143 comment="Binary Defense"
+add list="00_BinaryDefense" address=65.49.1.152 comment="Binary Defense"
+add list="00_BinaryDefense" address=65.49.1.52 comment="Binary Defense"
+add list="00_BinaryDefense" address=66.228.53.136 comment="Binary Defense"
+add list="00_BinaryDefense" address=66.228.53.157 comment="Binary Defense"
+add list="00_BinaryDefense" address=66.240.223.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=66.63.187.21 comment="Binary Defense"
+add list="00_BinaryDefense" address=71.196.213.75 comment="Binary Defense"
+add list="00_BinaryDefense" address=71.6.134.234 comment="Binary Defense"
+add list="00_BinaryDefense" address=71.6.167.142 comment="Binary Defense"
+add list="00_BinaryDefense" address=73.165.206.206 comment="Binary Defense"
+add list="00_BinaryDefense" address=73.224.51.26 comment="Binary Defense"
+add list="00_BinaryDefense" address=74.50.211.178 comment="Binary Defense"
+add list="00_BinaryDefense" address=74.82.47.5 comment="Binary Defense"
+add list="00_BinaryDefense" address=75.98.220.8 comment="Binary Defense"
+add list="00_BinaryDefense" address=79.124.58.198 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.191.203.175 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.78.28.127 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.82.65.17 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.82.77.202 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.94.95.115 comment="Binary Defense"
+add list="00_BinaryDefense" address=80.94.95.116 comment="Binary Defense"
+add list="00_BinaryDefense" address=81.29.134.51 comment="Binary Defense"
+add list="00_BinaryDefense" address=8.219.246.0 comment="Binary Defense"
+add list="00_BinaryDefense" address=8.222.128.242 comment="Binary Defense"
+add list="00_BinaryDefense" address=83.222.191.94 comment="Binary Defense"
+add list="00_BinaryDefense" address=83.239.158.174 comment="Binary Defense"
+add list="00_BinaryDefense" address=85.215.63.203 comment="Binary Defense"
+add list="00_BinaryDefense" address=85.237.46.251 comment="Binary Defense"
+add list="00_BinaryDefense" address=86.48.18.128 comment="Binary Defense"
+add list="00_BinaryDefense" address=86.54.31.32 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.121.84.16 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.121.84.34 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.236.176.10 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.236.176.197 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.236.176.210 comment="Binary Defense"
+add list="00_BinaryDefense" address=87.236.176.213 comment="Binary Defense"
+add list="00_BinaryDefense" address=88.214.25.121 comment="Binary Defense"
+add list="00_BinaryDefense" address=88.214.25.123 comment="Binary Defense"
+add list="00_BinaryDefense" address=88.214.25.124 comment="Binary Defense"
+add list="00_BinaryDefense" address=89.42.231.140 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.196.152.25 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.196.152.29 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.196.152.5 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.196.152.89 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.196.152.95 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.231.89.104 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.238.181.92 comment="Binary Defense"
+add list="00_BinaryDefense" address=91.90.123.12 comment="Binary Defense"
+add list="00_BinaryDefense" address=92.118.39.92 comment="Binary Defense"
+add list="00_BinaryDefense" address=92.118.39.95 comment="Binary Defense"
+add list="00_BinaryDefense" address=92.63.197.23 comment="Binary Defense"
+add list="00_BinaryDefense" address=93.123.109.191 comment="Binary Defense"
+add list="00_BinaryDefense" address=94.154.35.122 comment="Binary Defense"
+# Total entries: 549
